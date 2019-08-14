@@ -1,0 +1,6 @@
+os: osx
+osx_image: xcode10.3
+language: swift
+xcode_project: BullsEye.xcodeproj
+xcode_scheme: BullsEye
+xcode_sdk: iphonesimulator10.3.1
